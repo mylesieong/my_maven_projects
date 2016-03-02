@@ -1,0 +1,11 @@
+Index:
+1. I use maven to build these projects:
+   a) my-app: follow maven.apache.org tutorial, build the standard project from scratch
+   b) **spring_maven: follow spring.io tutorial on maven build java project, its only a java project without adding spring element, but its demos dependency on joda-time.
+   c) my-spring-demo: follow mkyong blog to build spring 2.5 but since I didnt export it to eclipse, there is a error on the last step when i try to call the java entrance.
+   d) SpringExample: this is the package provide by mkyong.
+   e) Build from scratch:
+	mvn archetype:generate -DgroupId=com.*.* -DartifactId=* -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+   f) For others, see the name and easily get the meanning
+

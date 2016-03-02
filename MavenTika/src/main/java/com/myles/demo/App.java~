@@ -1,0 +1,13 @@
+package com.myles.demo;
+
+/**
+ * Hello world!
+ *
+ */
+public class DemoTika 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
